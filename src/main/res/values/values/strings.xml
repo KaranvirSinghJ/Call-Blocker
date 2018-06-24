@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Auto Call Blocker</string>
+    <string name="application">MainActivity</string>
+    <string name="reciever">CallBarring</string>
+    <string name="activity">AddToBlocklistActivity</string>
+</resources>
